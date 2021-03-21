@@ -1,0 +1,10 @@
+D:\Work\Andrew\Tests\Tests\bin\Release\Tests.exe.config
+D:\Work\Andrew\Tests\Tests\bin\Release\Tests.exe
+D:\Work\Andrew\Tests\Tests\bin\Release\Tests.pdb
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.csprojAssemblyReference.cache
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.Form1.resources
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.Properties.Resources.resources
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.csproj.GenerateResource.cache
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.csproj.CoreCompileInputs.cache
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.exe
+D:\Work\Andrew\Tests\Tests\obj\Release\Tests.pdb
